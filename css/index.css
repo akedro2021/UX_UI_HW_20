@@ -1,7 +1,7 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background: url("../images/transparency.png");
+    background-image: url("/images/transparency.png");
     background-color: transparent !important;
     background-size: cover;
     z-index: 10;
