@@ -1,7 +1,7 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background-image: url("./images/transparency.png");
+    background-image: url("../images/transparency.png");
     background-color: transparent !important;
     background-size: cover;
     z-index: 10;
@@ -34,7 +34,7 @@
       background: black;
 }
 .jumbotron {
-    background-image: url("./images/Wolf\ Forest\ Jumbotron.jpeg");
+    background-image: url("../images/Wolf\ Forest\ Jumbotron.jpeg");
     height: 500px;
 }
 .display-4 {
