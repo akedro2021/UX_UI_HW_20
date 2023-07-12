@@ -1,7 +1,7 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background-image: url("/images/transparency.png");
+    background-image: url("./images/transparency.png");
     background-color: transparent !important;
     background-size: cover;
     z-index: 10;
@@ -28,18 +28,13 @@
 .navCTA {
     font-size: 15px;
 }
-.dropdown-menu {
-    background: url("../images/transparency.png");
-    background-color: transparent !important;
-    background-size: cover;
-}
 .dropdown-item:focus, .dropdown-item:hover {
       color: #16181b;
       text-decoration: none;
       background: black;
 }
 .jumbotron {
-    background-image: url("/images/Wolf\ Forest\ Jumbotron.jpeg");
+    background-image: url("./images/Wolf\ Forest\ Jumbotron.jpeg");
     height: 500px;
 }
 .display-4 {
@@ -63,9 +58,9 @@ h1 {
     text-align: center;
 }
 .processIcon {
-    height: 150px;
-    width: 150px;
-    padding-bottom: 20px;
+    height: auto;
+    width: 100%;
+    padding: 5% 30%;
 }
 .introImg {
     padding: 20px;
@@ -79,7 +74,8 @@ h1 {
     padding: 20px;
 }
 .gif {
-    justify-content: center;
+    height: 300px;
+    padding-top: 20px;
 }
 .phaseIcon {
     height: 150px;
