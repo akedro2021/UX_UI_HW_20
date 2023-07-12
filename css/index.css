@@ -38,3 +38,61 @@
       text-decoration: none;
       background: black;
 }
+.jumbotron {
+    background-image: url("/images/Wolf\ Forest\ Jumbotron.jpeg");
+    height: 500px;
+}
+.display-4 {
+    text-align: center;
+}
+.lead {
+    text-align: center;
+}
+h1 {
+    font-family: "lexend"
+}
+.jumbotronLogo {
+    height: 200px;
+    padding-top: 50px;
+}
+.headline {
+    text-align: center;
+    padding: 20px
+}
+.card {
+    text-align: center;
+}
+.processIcon {
+    height: 150px;
+    width: 150px;
+    padding-bottom: 20px;
+}
+.introImg {
+    padding: 20px;
+}
+.projectDescription {
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.overviewCard{
+    padding: 20px;
+}
+.row {
+    padding:
+}
+.gif {
+    justify-content: center;
+}
+.phaseIcon {
+    height: 150px;
+    width: 150px;
+    padding-top: 20px;
+}
+.flexContainer {
+    display: flex;
+    justify-content: center;
+}
+.storyFrame {
+    padding: 20px;
+}
